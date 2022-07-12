@@ -4,7 +4,7 @@
 
 基于现有的一些最佳实践方案参考简书开发的项目。主要是作为react框架的一个实践，项目虽然不难，但是收获颇多。
 
-![image-20220712123205072](.\images\image-20220712123205072.png)
+![image-20220712123205072](https://github.com/luozhiqiang-code/jianshu/blob/master/images/image-20220712123205072.png)
 
 ## 技术栈
 
